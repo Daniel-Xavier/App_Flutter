@@ -54,7 +54,7 @@ class _MainPageState extends State<MainPage> {
             width: 200,
             height: 200,
             child: Image.asset(
-                "/home/daniel/github/app-fluter-main/app_facs/images/smile.png")),
+                "/home/daniel/github/App_flutter/app_facs/images/smile.png")),
         Container(
           child:
               Text("Expressão: " + ((widget.dadosFeeling.feeling)).toString()),
